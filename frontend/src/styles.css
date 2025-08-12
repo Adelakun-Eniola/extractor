@@ -130,3 +130,4 @@ body {
 @keyframes spin { to { transform: rotate(360deg); } }
 
 .footnote { text-align: center; color: var(--muted); margin-top: 24px; }
+

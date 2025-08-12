@@ -28,3 +28,4 @@ Then open `http://localhost:3001`.
   - `POST /api/extract` with `{ url: string }`
   - `POST /api/download-csv` with extracted data
 - Adjust the proxy in `vite.config.js` if your backend runs elsewhere.
+
